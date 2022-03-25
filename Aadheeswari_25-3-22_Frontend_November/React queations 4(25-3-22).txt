@@ -1,0 +1,3 @@
+4)  Does React use HTML?
+
+    => No, It uses JSX, which is similar to HTML.

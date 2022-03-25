@@ -1,0 +1,4 @@
+3) Wxplain about componentWillUnmount in unmounting phase?
+
+
+     => The componentWillUnmount method is called when the component is about to be removed from the DOM.

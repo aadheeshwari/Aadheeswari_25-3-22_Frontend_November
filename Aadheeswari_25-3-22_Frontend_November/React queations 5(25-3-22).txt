@@ -1,0 +1,3 @@
+ 5) When was React first released?
+
+    => React was first released on March 2013.

@@ -1,0 +1,13 @@
+1) Explain about componentDidUpdate in updating phase?
+
+
+    => The componentDidUpdate method is called after the component is updated in the DOM.
+
+    => The example below might seem complicated, but all it does is this:
+
+    => When the component is mounting it is rendered with the favorite color "red".
+
+    => When the component has been mounted, a timer changes the state, and the color becomes "yellow".
+
+    => This action triggers the update phase, and since this component has a componentDidUpdate method, this method is 
+executed and writes a message in the empty DIV element
